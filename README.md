@@ -1,3 +1,14 @@
+# Obi Tauri Test  
+
+This is my first try at using Tauri.  
+
+Just an initial development environment.  
+
+Let's see what I get myself into building soon.  
+
+Below I'm leaving the original README that comes with the Tauri scaffold.
+
+
 # Tauri + React + Typescript
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
